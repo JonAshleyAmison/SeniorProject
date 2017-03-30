@@ -1,4 +1,4 @@
-// test push
+// test
 import java.util.StringTokenizer;
 
 public class ProjectMain {
